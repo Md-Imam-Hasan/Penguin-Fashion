@@ -33,6 +33,9 @@ strong{
 .blue-highlight{
   color: #363958;
 }
+a:hover{
+  color: black;
+}
 .anchor-button{
   text-decoration: none;
   background: linear-gradient(#3D4FF3,#3543BC);
